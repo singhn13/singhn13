@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya Singh</h1>
 <h3 align="center">A passionate software developer studying at Michigan State University</h3>
 
-- 🔭 I’m currently working as a [Research Assistant @](https://github.com/HAAIL)
+- 🔭 I’m currently working as a Research Assistant @ [HAAIL](https://github.com/HAAIL)
 
 - 🌱 I’m currently learning **about Blockchain technology**
 
