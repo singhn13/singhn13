@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Navya Singh</h1>
 <h3 align="center">A passionate software developer studying at Michigan State University</h3>
 
-- 🔭 I’m currently working as a Research Assistant @ [HAAIL](https://github.com/HAAIL)
+- 💻 My interests include ML, specifically computer vision, and full-stack development
 
-- 👨‍💻 All of my projects are available on my [website](https://singhn13.github.io/personal-website/)
+- 🎓 I am a final year CS student at Michigan State University
 
-- 💬 Ask me about **anything Python related**
+- 👩‍💻 All of my projects are available on my [website](https://singhn13.github.io/personal-website/)
 
 - 📫 How to reach me: **ns.singhnavya@gmail.com**
 
