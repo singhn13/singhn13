@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Singh</h1>
-<h3 align="center">A passionate software developer studying at Michigan State University</h3>
+<h3 align="center">A passionate software developer looking for full time roles</h3>
 
 - 💻 My interests include ML, specifically computer vision, and full-stack development
 
